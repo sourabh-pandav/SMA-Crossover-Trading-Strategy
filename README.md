@@ -1,4 +1,3 @@
-# SMA-Crossover-Trading-Strategy
 # SMA Crossover Trading Strategy with Risk-Reward Analysis
 
 
