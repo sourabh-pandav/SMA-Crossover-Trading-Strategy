@@ -46,5 +46,5 @@ Key trading statistics are calculated, including:
 - Initial balance
 - Final balance after executing trades
 - Average returns on trades
-- Win ratios for successful trades
+- Win ratios for successful trades.
 
